@@ -1,6 +1,6 @@
 # qrcode_test
 
-A new Flutter project.
+A Flutter project to study how read and create QR Codes in Flutter.
 
 ## Getting Started
 
